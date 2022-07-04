@@ -1,2 +1,2 @@
-# Meta-gen-mica
+# Metagenomica
 Colab
